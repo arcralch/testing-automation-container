@@ -1,0 +1,7 @@
+.settings
+.vscode
+logs/**
+reports
+tmp/
+.scannerwork
+target
